@@ -1,0 +1,70 @@
+
+body{background-color: rgb(0, 76, 166);
+width: 1000px;
+margins: auto; 
+<img id="animal" src="animal.jpg" width="200" height="300" align="right"/>;
+}
+
+header{
+}
+ 
+h1 {
+font-family: "Harrington", comic sans ms, sans-serif; font-size: 70px;
+text-align: left;
+margin-left: 3%;
+color: rgb(239, 223, 184);}
+h3 {
+font-family: "MV Boli", comic sans ms; font-size: 40px;
+color: rgb(239, 223, 184);
+margin-left:17%;}
+}
+
+
+
+nav{}
+
+ul {
+list-style-type: square;
+border-radius: 25px; 
+margin-left: 68.5%;
+padding:10px;
+overflow: hidden; 
+background-color: rgb(239, 223, 184);
+width: 460px;
+}
+
+li {float: center;
+display: inline;
+padding: 10px;
+
+}
+
+section{ 
+margin-left: 15% ; width: 600px;
+color: white;
+font-size:18px;
+text-align: justify; 
+
+}
+
+h4{font-family: "Kristen ITC", comic sans ms, sans-serif; font-size: 30px;
+text-align: left;  
+color: rgb(117, 48, 51);
+
+}
+
+h2{font-family: "MV Boli", comic sans ms; font-size: 45px;
+color: rgb(239, 223, 184);
+text-align: center; 
+
+}
+
+#store-front{margin-left: 20%;
+
+}
+
+
+
+ 
+
+
